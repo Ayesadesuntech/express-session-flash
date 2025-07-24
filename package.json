@@ -1,0 +1,28 @@
+{
+  "name": "express-session-flash",
+  "version": "1.1.2",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "session",
+    "flash",
+    "middleware",
+    "express-session",
+    "typescript",
+    "ejs",
+    "messages",
+    "flash-messages",
+    "flash-messages-middleware",
+    "express-session-flash"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express-session": "^1.18.2"
+  }
+}
